@@ -1,3 +1,3 @@
-# fragile-families (COS424, Spring 2019)
+# Fragile Families Data Analysis (COS424, Spring 2019)
 
 An exploratory data analysis of the fragile families dataset, which looks at factors influencing socioeconomic/general health aspects of families.
